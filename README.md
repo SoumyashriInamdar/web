@@ -20,6 +20,5 @@ div:hover {
 
 <p>Hover over the div element below, to see the transition effect:</p>
 <div></div>
-
 </body>
 </html>
